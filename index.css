@@ -1,9 +1,10 @@
 #mirror {
-      width: 640px;
-      height: 480px;
+      width: 1280px;
+      height: 960px;
       background-color: #CCC;
       display: flex;
       flex-wrap: wrap;
+      filter: sepia();
 }
 
 body{
@@ -11,6 +12,6 @@ body{
 }
 
 .lol{
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
 }

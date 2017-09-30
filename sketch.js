@@ -1,10 +1,10 @@
 var video;
 
-var vScale = 16;
+var vScale = 20;
 var slider;
 
-var cols = 40;
-var rows = 30;
+var cols = 64;
+var rows = 48;
 
 var boxes = [];
 
@@ -40,7 +40,7 @@ function setup() {
   }
 
   for (var i = 0; i < rows*cols; i++){
-    document.getElementsByClassName('lol')[i].style.background = "url(https://source.unsplash.com/" + covers[getRandomInt(0,5)] + "/16x16)";
+    document.getElementsByClassName('lol')[i].style.background = "url(https://source.unsplash.com/" + covers[getRandomInt(0,5)] + "/30x30)";
   }
 
 }
