@@ -1,6 +1,6 @@
 #mirror {
-      width: 1280px;
-      height: 960px;
+      width: 640px;
+      height: 480px;
       background-color: #CCC;
       display: flex;
       flex-wrap: wrap;
@@ -12,6 +12,6 @@ body{
 }
 
 .lol{
-  width: 20px;
-  height: 20px;
+  width: 16px;
+  height: 16px;
 }

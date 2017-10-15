@@ -1,10 +1,10 @@
 var video;
 
-var vScale = 20;
+var vScale = 16;
 var slider;
 
-var cols = 64;
-var rows = 48;
+var cols = 40;
+var rows = 30;
 
 var boxes = [];
 
