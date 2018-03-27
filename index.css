@@ -1,0 +1,17 @@
+#mirror {
+      width: 640px;
+      height: 480px;
+      background-color: #CCC;
+      display: flex;
+      flex-wrap: wrap;
+      filter: sepia();
+}
+
+body{
+  margin: 0;
+}
+
+.lol{
+  width: 16px;
+  height: 16px;
+}
